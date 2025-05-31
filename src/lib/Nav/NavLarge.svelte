@@ -60,8 +60,8 @@
 
 	:global(.navBar .material-icons) {
 		font-size: 1.8em;
-		height: 25px;
-		width: 22px;
+		height: 125px;
+		width: 122px;
 	}
 
 	.parent {
