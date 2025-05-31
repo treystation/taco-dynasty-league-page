@@ -76,7 +76,7 @@
 </style>
 
 <nav>
-	<a href="/"><img id="logo" alt="league logo" src="/Taco_league.png" /></a>
+	<a href="/"><img id="logo" alt="league logo" src="/Taco_league3.png" /></a>
 
 	<div class="container">
 		<IconButton
